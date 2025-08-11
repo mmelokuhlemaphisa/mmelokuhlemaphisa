@@ -11,7 +11,7 @@
 
 ## 🔧 Tech Stack
  * Languages: HTML, CSS, JavaScript  
- * Tools:* Git, GitHub, VS Code  
+ * Tools: Git, GitHub, VS Code  
  * Currently Learning: Responsive Web Design, JavaScript DOM, Git best practices  
 
 
