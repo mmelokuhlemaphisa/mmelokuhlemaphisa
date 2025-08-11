@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋 I'M Melokuhle Maphisa
 
-<!--
-**mmelokuhlemaphisa/mmelokuhlemaphisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+💻 Trainee Software Developer @ mLab CodeTribe  
+📚 Currently learning *HTML, CSS, JavaScript, and Git*  
+🚀 Passionate about building modern, responsive, and user-friendly web applications  
+🌱 Exploring *front-end development* while preparing to grow into full-stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🔧 Tech Stack
+ * Languages: HTML, CSS, JavaScript  
+ * Tools:* Git, GitHub, VS Code  
+ * Currently Learning: Responsive Web Design, JavaScript DOM, Git best practices  
+
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/melokuhle-maphisa-04aa4b348/)    
+- 📧 Email: melokuhlemaphisa99@email.com  
+
+
+⭐ *“Code is like humor. When you have to explain it, it’s bad.”*
